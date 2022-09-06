@@ -1,6 +1,6 @@
-## I'm Naoki Tani
-### A Web developer from Japan
----
+### I'm Naoki Tani
+<p class="info">A Web developer from Japan</p>
+
 #### Languages and Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5)
