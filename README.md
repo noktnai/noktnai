@@ -1,25 +1,60 @@
-# Hi 👋, I'm Naoki Tani
-### A programmer from Japan
-___
-![](https://github-profile-trophy.vercel.app/?username=noktnai)
-___
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=noktnai&layout=compact&theme=dracula)
-### Languages:
-___
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 4px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+<link href="./markdown.css" rel="stylesheet"></link>
 
-### Databases:
-___
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
+# I'm Naoki Tani
+<div class="badge">
+<span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" />&nbsp;<small>HTML5</small>
+</span>
+</div>
+<div class="badge">
+<span style="display: flex; align-items: center;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="html5" />&nbsp;<small>CSS3</small>
+</span>
+</div>
+<div class="badge">
+<span style="display: flex; align-items: center;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="html5" />&nbsp;<small>JavaScript</small>
+</span>
+</div>
+<div class="badge">
+<span style="display: flex; align-items: center;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="html5" />&nbsp;<small>PHP</small>
+</span>
+</div>
+<div class="badge">
+<span style="display: flex; align-items: center;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="html5" />&nbsp;<small>Java</small>
+</span>
+</div>
+<div class="badge">
+<span style="display: flex; align-items: center;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="html5" />&nbsp;<small>MySQL</small>
+</span>
+</div>
+<div class="badge">
+<span style="display: flex; align-items: center;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="html5" />&nbsp;<small>SQLite</small>
+</span>
+</div>
+<div class="badge">
+<span style="display: flex; align-items: center;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="html5" />&nbsp;<small>VSCode</small>
+</span>
+</div>
+<div class="badge">
+<span style="display: flex; align-items: center;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="html5" />&nbsp;<small>Git</small>
+</span>
+</div>
+<div class="badge">
+<span style="display: flex; align-items: center;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="html5" />&nbsp;<small>Github</small>
+</span>
+</div>
+<br>
+<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noktnai&theme=nord_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noktnai&layout=compact&theme=nord" />
 
-### Tools:
-___
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" />    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" />
+<img src="https://github-profile-trophy.vercel.app/?username=noktnai&theme=nord" />
 
