@@ -12,8 +12,6 @@ A Web developer from Japan
 ![Git](https://img.shields.io/badge/-Git-black?logo=git)
 ![Github](https://img.shields.io/badge/-Github-black?logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?logo=visual-studio-code&logoColor=007ACC)
-
 ![contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noktnai&theme=nord_dark)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=noktnai&theme=nord)
+![](https://github-profile-trophy.vercel.app/?username=noktnai&theme=nord)
 
