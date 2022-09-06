@@ -1,5 +1,5 @@
 ## I'm Naoki Tani
-A Web developer from Japan
+Japanese web developer
 
 <small>Main Languages and Tools</small>
 
@@ -19,10 +19,10 @@ A Web developer from Japan
 ![Ruby](https://img.shields.io/badge/-Ruby-black?logo=ruby&logoColor=CC342D&style=flat-square)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-black?logo=rubyonrails&logoColor=CC0000&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=3776AB&style=flat-square) <img src="https://user-images.githubusercontent.com/67360139/188669030-970af40f-e96f-4c1c-a9eb-868e2e28254c.png" height="20">
-![Eclipse](https://img.shields.io/badge/-Eclipse-black?logo=eclipse&logoColor=2C2255&style=flat-square)
+![Apache](https://img.shields.io/badge/-Apache-black?logo=apache&logoColor=D22128&style=flat-square)
 ![AmazonEC2](https://img.shields.io/badge/-AmazonEC2-black?logo=amazonec2&style=flat-square)
+![Eclipse](https://img.shields.io/badge/-Eclipse-black?logo=eclipse&logoColor=2C2255&style=flat-square)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noktnai&theme=nord_dark)
 ![](https://github-profile-trophy.vercel.app/?username=noktnai&theme=nord&margin-w=8&margin-h=8)
-
