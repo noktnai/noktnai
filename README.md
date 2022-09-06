@@ -1,5 +1,5 @@
 ### I'm Naoki Tani
-<p class="info">A Web developer from Japan</p>
+A Web developer from Japan
 
 #### Languages and Tools
 
@@ -15,7 +15,5 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noktnai&theme=nord_dark)
 
-![](https://github-profile-trophy.vercel.app/?username=noktnai&theme=nord)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=noktnai&theme=nord)
 
