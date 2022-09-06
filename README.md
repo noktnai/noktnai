@@ -1,58 +1,19 @@
-# I'm Naoki Tani
-<div style="padding: 0px 4px;display: inline-block;border-radius: 4px;background-color: black;">
-<span style="display: flex;align-items: center;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="16" height="16" />&nbsp;<small style="font-family: serif;">HTML5</small>
-</span>
-</div>
-<div style="padding: 0px 4px;display: inline-block;border-radius: 4px;background-color: black;">
-<span style="display: flex;align-items: center;" style="display: flex; align-items: center;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="html5" width="16" height="16" />&nbsp;<small style="font-family: serif;">CSS3</small>
-</span>
-</div>
-<div style="padding: 0px 4px;display: inline-block;border-radius: 4px;background-color: black;">
-<span style="display: flex;align-items: center;" style="display: flex; align-items: center;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="html5" width="16" height="16" />&nbsp;<small style="font-family: serif;">JavaScript</small>
-</span>
-</div>
-<div style="padding: 0px 4px;display: inline-block;border-radius: 4px;background-color: black;">
-<span style="display: flex;align-items: center;" style="display: flex; align-items: center;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="html5" width="16" height="16" />&nbsp;<small style="font-family: serif;">PHP</small>
-</span>
-</div>
-<div style="padding: 0px 4px;display: inline-block;border-radius: 4px;background-color: black;">
-<span style="display: flex;align-items: center;" style="display: flex; align-items: center;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="html5" width="16" height="16" />&nbsp;<small style="font-family: serif;">Java</small>
-</span>
-</div>
-<div style="padding: 0px 4px;display: inline-block;border-radius: 4px;background-color: black;">
-<span style="display: flex;align-items: center;" style="display: flex; align-items: center;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="html5" width="16" height="16" />&nbsp;<small style="font-family: serif;">MySQL</small>
-</span>
-</div>
-<div style="padding: 0px 4px;display: inline-block;border-radius: 4px;background-color: black;">
-<span style="display: flex;align-items: center;" style="display: flex; align-items: center;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="html5" width="16" height="16" />&nbsp;<small style="font-family: serif;">SQLite</small>
-</span>
-</div>
-<div style="padding: 0px 4px;display: inline-block;border-radius: 4px;background-color: black;">
-<span style="display: flex;align-items: center;" style="display: flex; align-items: center;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="html5" width="16" height="16" />&nbsp;<small style="font-family: serif;">VSCode</small>
-</span>
-</div>
-<div style="padding: 0px 4px;display: inline-block;border-radius: 4px;background-color: black;">
-<span style="display: flex;align-items: center;" style="display: flex; align-items: center;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="html5" width="16" height="16" />&nbsp;<small style="font-family: serif;">Git</small>
-</span>
-</div>
-<div style="padding: 0px 4px;display: inline-block;border-radius: 4px;background-color: black;">
-<span style="display: flex;align-items: center;" style="display: flex; align-items: center;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="html5" width="16" height="16" />&nbsp;<small style="font-family: serif;">Github</small>
-</span>
-</div>
-<br>
-<br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noktnai&theme=nord_dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noktnai&layout=compact&theme=nord" />
+## I'm Naoki Tani
+### A Web developer from Japan
+---
+#### Languages and Tools
 
-<img src="https://github-profile-trophy.vercel.app/?username=noktnai&theme=nord" />
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-black?logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-black?logo=sqlite&logoColor=003B57)
+![Git](https://img.shields.io/badge/-Git-black?logo=git)
+![Github](https://img.shields.io/badge/-Github-black?logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-black?logo=visual-studio-code&logoColor=007ACC)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noktnai&theme=nord_dark)
+
+![](https://github-profile-trophy.vercel.app/?username=noktnai&theme=nord)
 
