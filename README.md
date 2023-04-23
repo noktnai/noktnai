@@ -16,6 +16,7 @@ Japanese web developer
 
 <small>A little</small>
 
+![React](https://img.shields.io/badge/-React-black?logo=react&style=flat-square)
 ![Ruby](https://img.shields.io/badge/-Ruby-black?logo=ruby&logoColor=CC342D&style=flat-square)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-black?logo=rubyonrails&logoColor=CC0000&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=3776AB&style=flat-square) <img src="https://user-images.githubusercontent.com/67360139/188669030-970af40f-e96f-4c1c-a9eb-868e2e28254c.png" height="20">
